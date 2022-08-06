@@ -8,7 +8,7 @@
 
 ## Coding Profiles
 - LeetCode: [ARPIT_KAUSHIK](https://leetcode.com/YourLeetCodeUserName/)
-- HackerRank: [aRPIT_KAUSHIK](https://www.hackerrank.com/HackerRankUserName)
+- HackerRank: [ARPIT_KAUSHIK](https://www.hackerrank.com/HackerRankUserName)
 
 ## Placement Module
 1. [DS I](https://github.com/arpit-kaushi/Pre-Placement-Module-2023/tree/main/DS%20I)
